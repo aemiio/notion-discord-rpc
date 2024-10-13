@@ -10,6 +10,6 @@ This is a modified version of the original [Notion Discord Rich Presence](https:
 This fork has been adapted to work on Windows 11 using PowerShell instead of AppleScript.
 
 ## Requirements
-- Python 3.x
+- Python
 - PowerShell (pre-installed on Windows)
 
